@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,400,600,700&display=swap');
+
+body{
+	font-family: 'Josefin Sans', sans-serif;
+}
+.login-section{
+	padding: 125px 0;
+}
+.welcome-note{
+	background: #f7f7f7;
+	padding: 20px 0;
+}
+.welcome-note h2{
+	color: #00af11;
+	font-size: 26px;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+.logout-btn{
+	text-align: right;
+}
